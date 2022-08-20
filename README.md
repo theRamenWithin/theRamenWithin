@@ -1,11 +1,11 @@
-- 🔭 I’m currently working on a doge themed dungeon crawler
-- 🌱 I’m currently learning the MERN stack
-- 👯 I’m looking to collaborate on your overambitious kickstarter project
-- 🤔 I’m looking for help with overthrowing fascism regimes
-- 💬 Ask me about my glorious mustache (hidden in profile pic for safety)
-- 📫 How to reach me: slide into my Twitter DMs
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: the sloth spends pretty much their entire life in one tree
+- 🔭 I’m currently working on running bootcamps for the next generation of coders.
+- 🌱 I’m currently learning Cypress/threejs/Unity & many other technologies and frameworks.
+- 👯 I’m looking to collaborate on projects that enrich and entertain humanity.
+- 🤔 I’m looking for help with picking Rust or Carbon to learn next.
+- 💬 Ask me about fast inverse square root.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-pike-ap/).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: The sloth spends almost their entire life living on one tree.
 
 <!--
 **theRamenWithin/theRamenWithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
